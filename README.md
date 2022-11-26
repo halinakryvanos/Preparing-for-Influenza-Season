@@ -1,4 +1,4 @@
-# Preparing-for-Influenza-Season. 
+# Preparing-for-Influenza-Season 
 To help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis. The analysis will help plan for influenza season, a time when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to proactively plan for staffing needs across the country.
 
 ### Developed skills:  
@@ -35,6 +35,6 @@ your final presentation.
 - Cleaned the data, performed consistency checks, data integration and hypothesis testing in MS Excel Hypothesis testing.   
 - The final results examined trends in influenza and how they can be used to proactively plan for staffing needs across the country.  
 
-# Created presentation of the analysis results in Tableau.  
+# Created presentation of the analysis results in Tableau  
 Please refer to the **[Tableau Public](https://public.tableau.com/views/PreparingforInfluenzaSeason_16614135347050/USvs_Influenza?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
