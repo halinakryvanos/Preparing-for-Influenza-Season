@@ -7,7 +7,7 @@ To help a medical staffing agency that provides temporary workers to clinics and
 - Data treatment and Integration  
 - Hypothesis testing  
 - Tableau
-- Refer to Video Presentation on [YouTube](https://youtu.be/bTC6IxPkEjA).
+- Refer to Video Presentation on **[YouTube](https://youtu.be/bTC6IxPkEjA)**.
 
 ### Requirements:
 
@@ -26,4 +26,15 @@ To help a medical staffing agency that provides temporary workers to clinics and
 - Include your conclusions, recommendations, and proposed next steps in your final
 presentation.  
 - Consider the audience when determining which analysis components to include in
-your final presentation.
+your final presentation. 
+
+# What was done in Excel  
+
+- Analyzed of medical data and determined the trends in virus contamination.   
+- Forecasted need for manpower.  
+- Cleaned the data, performed consistency checks, data integration and hypothesis testing in MS Excel Hypothesis testing.   
+- The final results examined trends in influenza and how they can be used to proactively plan for staffing needs across the country.  
+
+# Created presentation of the analysis results in Tableau.  
+Please refer to the **[Tableau Public](https://public.tableau.com/views/PreparingforInfluenzaSeason_16614135347050/USvs_Influenza?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
