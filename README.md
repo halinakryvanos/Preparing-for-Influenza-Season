@@ -1,13 +1,17 @@
 # Preparing-for-Influenza-Season 
 To help a medical staffing agency that provides temporary workers to clinics and hospitals on an as-needed basis. The analysis will help plan for influenza season, a time when additional staff are in high demand. The final results will examine trends in influenza and how they can be used to proactively plan for staffing needs across the country.
 
-### Developed skills:  
+### Developed skills: 
+
 - Analysis of medical data to determine the trends in virus contamination   
+- Excel  
 - Forecasting of manpower  
-- Data treatment and Integration  
-- Hypothesis testing  
-- Tableau
-- Refer to Video Presentation on **[YouTube](https://youtu.be/bTC6IxPkEjA)**.
+- Data treatment and Integration (Data cleaning, Data integration, Data transformation)  
+- Statistical hypothesis testing 
+- Visual analysis  
+- Forecasting of manpower   
+- Storytelling in Tableau  
+- Presenting results to an audience (Refer to Video Presentation on **[YouTube](https://youtu.be/bTC6IxPkEjA)**).
 
 ### Requirements:
 
